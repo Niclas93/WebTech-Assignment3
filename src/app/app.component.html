@@ -1,0 +1,48 @@
+<style>
+  table, td, th {
+    border: 1px solid black;
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 90%
+  }
+
+  th {
+    height: 50px;
+  }
+</style>
+
+
+<h2>Liste der Autoren</h2>
+<p>Hier findet ihr eine Liste der Autoren und die Anzahl ihrer Veröffentlichungen.</p>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Anzahl</th>
+    <th>URL</th>
+
+  </tr>
+
+  <!--    TODO Test-Liste von anderer Seite-->
+
+<!--          <tr *ngFor="let com of lstInfos">-->
+<!--            <td>{{com.id}}</td>-->
+<!--            <td>{{com.userId}}</td>-->
+<!--            <td>{{com.title}}</td>-->
+<!--            <td>{{com.body}}</td>-->
+<!--          </tr>-->
+
+  <!--    TODO Liste für den UniBw Server-->
+
+  <tr *ngFor="let entry of authorEntries  | orderBy : 'count' : true">
+    <td>{{entry.value}}</td>
+    <td>{{entry.count}}</td>
+    <td>{{entry._links.items.href}}</td>
+  </tr>
+
+</table>
+
+
+

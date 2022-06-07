@@ -1,0 +1,263 @@
+{
+  "_embedded": {
+    "entries": [
+      {
+        "authority": null,
+        "value": "Aal, Konstantin",
+        "valueLang": null,
+        "count": 1,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=Aal,%20Konstantin"
+          }
+        }
+      },
+      {
+        "authority": null,
+        "value": "Abou Amsha, Khuloud",
+        "valueLang": null,
+        "count": 1,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=Abou%20Amsha,%20Khuloud"
+          }
+        }
+      },
+      {
+        "authority": null,
+        "value": "Agostini, Alessandra",
+        "valueLang": null,
+        "count": 1,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=Agostini,%20Alessandra"
+          }
+        }
+      },
+      {
+        "authority": null,
+        "value": "Altenhofen, Alexander",
+        "valueLang": null,
+        "count": 1,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=Altenhofen,%20Alexander"
+          }
+        }
+      },
+      {
+        "authority": null,
+        "value": "Back,",
+        "valueLang": null,
+        "count": 1,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=Back,"
+          }
+        }
+      },
+      {
+        "authority": null,
+        "value": "Bader, Johannes",
+        "valueLang": null,
+        "count": 1,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=Bader,%20Johannes"
+          }
+        }
+      },
+      {
+        "authority": null,
+        "value": "Baumgarten, Uwe",
+        "valueLang": null,
+        "count": 1,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=Baumgarten,%20Uwe"
+          }
+        }
+      },
+      {
+        "authority": null,
+        "value": "Behrendt, Sebastian",
+        "valueLang": null,
+        "count": 4,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=Behrendt,%20Sebastian"
+          }
+        }
+      },
+      {
+        "authority": null,
+        "value": "Bentele, Markus",
+        "valueLang": null,
+        "count": 1,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=Bentele,%20Markus"
+          }
+        }
+      },
+      {
+        "authority": null,
+        "value": "Blohm, Ivo",
+        "valueLang": null,
+        "count": 2,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=Blohm,%20Ivo"
+          }
+        }
+      },
+      {
+        "authority": null,
+        "value": "Boehringer, Martin",
+        "valueLang": null,
+        "count": 1,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=Boehringer,%20Martin"
+          }
+        }
+      },
+      {
+        "authority": null,
+        "value": "Böhringer, Martin",
+        "valueLang": null,
+        "count": 1,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=B%C3%B6hringer,%20Martin"
+          }
+        }
+      },
+      {
+        "authority": null,
+        "value": "Borghoff, Uwe M",
+        "valueLang": null,
+        "count": 1,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=Borghoff,%20Uwe%20M"
+          }
+        }
+      },
+      {
+        "authority": null,
+        "value": "Bossauer, Paul",
+        "valueLang": null,
+        "count": 1,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=Bossauer,%20Paul"
+          }
+        }
+      },
+      {
+        "authority": null,
+        "value": "Bretschneider, Ulrich",
+        "valueLang": null,
+        "count": 1,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=Bretschneider,%20Ulrich"
+          }
+        }
+      },
+      {
+        "authority": null,
+        "value": "Bry, Francois",
+        "valueLang": null,
+        "count": 1,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=Bry,%20Francois"
+          }
+        }
+      },
+      {
+        "authority": null,
+        "value": "Bullinger, Angelika C.",
+        "valueLang": null,
+        "count": 4,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=Bullinger,%20Angelika%20C."
+          }
+        }
+      },
+      {
+        "authority": null,
+        "value": "Bürger, Martin",
+        "valueLang": null,
+        "count": 1,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=B%C3%BCrger,%20Martin"
+          }
+        }
+      },
+      {
+        "authority": null,
+        "value": "Burkhard, Martin",
+        "valueLang": null,
+        "count": 5,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=Burkhard,%20Martin"
+          }
+        }
+      },
+      {
+        "authority": null,
+        "value": "Cabrera,",
+        "valueLang": null,
+        "count": 3,
+        "type": "browseEntry",
+        "_links": {
+          "items": {
+            "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/items?filterValue=Cabrera,"
+          }
+        }
+      }
+    ]
+  },
+  "page": {
+    "number": 0,
+    "size": 20,
+    "totalPages": 8,
+    "totalElements": 151
+  },
+  "_links": {
+    "next": {
+      "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/entries?page=1"
+    },
+    "last": {
+      "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/entries?page=7"
+    },
+    "self": {
+      "href": "https://webtech.informatik.unibw-muenchen.de/server/api/discover/browses/author/entries"
+    }
+  }
+}
